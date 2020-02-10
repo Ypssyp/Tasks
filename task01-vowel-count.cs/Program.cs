@@ -90,4 +90,4 @@ public class Program
     private static string incorrectCaseTemplate = "Case #{0} IS NOT CORRECT";
     private static int correctTestCaseAmount = 0;
 }
-© 2020 GitHub, Inc.
+
