@@ -9,7 +9,7 @@ public class Program
 {
     public static int CountVowels(string s)
     {
-        // ИЗМЕНИТЕ КОД ЭТОГО МЕТОДА
+        
         if (string.IsNullOrEmpty(s))
         {
             throw new ArgumentNullException();
